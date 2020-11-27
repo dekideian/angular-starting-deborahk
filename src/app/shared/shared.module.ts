@@ -12,7 +12,6 @@ import { StarsComponent } from './stars/stars.component';
     FormsModule
   ], 
   exports: [
-    
     StarsComponent,
     FormsModule
   ]
